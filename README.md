@@ -15,6 +15,11 @@ This project demonstrates how to integrate a Large Language Model (LLM) into a w
 
 ---
 
+## 📸 Demo
+
+![Mini AI Chatbot UI](screenshot.png)
+
+---
 ## 🏗️ Architecture
 
 ```
